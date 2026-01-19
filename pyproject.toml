@@ -1,0 +1,18 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.3",
+    "pillow>=11.3.0",
+    "pytesseract>=0.3.13",
+    "reportlab>=4.4.4",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "streamlit>=1.50.0",
+    "tensorflow>=2.20.0",
+]
